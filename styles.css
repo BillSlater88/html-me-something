@@ -1,0 +1,51 @@
+html {
+    background-color: rgb(161, 241, 161);
+}
+
+p {
+    border: solid black 4px;
+}
+
+figure {
+    margin: 0;
+    padding: 5px;
+    text-align: center;
+}
+
+section {
+    margin: 12px;
+    padding: 10px;
+}
+
+figcaption {
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+
+}
+#myheader {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 80px;
+    font-weight: 300;
+    text-align: center;
+    
+    
+
+}
+
+h2 {
+    text-align: center;
+    border: dotted blueviolet;
+}
+p {
+    font-family: sans-serif;
+    font-size: 18px;
+    margin: 25px 30px;
+    text-align: center;
+    padding: 20px;
+
+
+}
+
+ul {
+    text-align: center;
+    font-family: Helvetica;
+}
