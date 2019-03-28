@@ -2,6 +2,9 @@ html {
     background-color: rgb(161, 241, 161);
 }
 
+.sectionheader {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
 p {
     border: solid black 4px;
 }
